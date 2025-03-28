@@ -53,7 +53,7 @@ I'm a fullstack developer focused on delivering robust and scalable solutions, c
 
 Let’s connect, collaborate, or chat about cool projects:
 
-- [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/cassio-augusto-alves/))
+- [LinkedIn](https://www.linkedin.com/in/cassio-augusto-alves/)
 - [Email](mailto:cassioag.alves@gmail.com)
 
 Thanks for stopping by! ⭐
