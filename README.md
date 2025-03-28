@@ -1,17 +1,17 @@
-# 👨‍💻 Bem-vindo ao meu GitHub!
+# 👨‍💻 Welcome!
 
-Sou um desenvolvedor fullstack com foco em entregar soluções robustas e escaláveis, combinando backend sólido com experiências frontend fluidas. Aqui você vai encontrar projetos que refletem minha jornada profissional, estudos e criações para clientes.
+I'm a fullstack developer focused on delivering robust and scalable solutions, combining solid backend architecture with smooth frontend experiences. Here you'll find projects that reflect my professional journey, side projects, and client solutions.
 
 ---
 
-## 🚀 Stacks que utilizo no dia a dia
+## 🚀 Tech Stack I Work With
 
 ### Backend
 - 🟣 **.NET Core / C#**
 - 🟦 **Node.js** (TypeScript / JavaScript)
 - 🐘 **PostgreSQL**
 - 🛠 **Dapper**, **EF Core**
-- 🔐 Autenticação (JWT, OAuth)
+- 🔐 Authentication (JWT, OAuth)
 - ☁️ Azure (Web Apps, Functions, Storage)
 
 ### Frontend
@@ -19,41 +19,41 @@ Sou um desenvolvedor fullstack com foco em entregar soluções robustas e escal�
 - 🛠 **Redux Toolkit**, **Axios**, **Context API**
 - 🎨 **Styled Components**, **TailwindCSS**
 
-### Testes
+### Testing
 - ✅ **xUnit**, **Jest**, **React Testing Library**
 
-### Integrações & Outras Skills
+### Integrations & Other Skills
 - 🔁 GraphQL (Apollo)
 - 🧩 REST APIs
 - 📦 Webpack, Vite
-- 🧠 Arquitetura limpa, DDD, SOLID
+- 🧠 Clean Architecture, DDD, SOLID Principles
 
 ---
 
-## 🛠 Projetos em destaque
+## 🛠 Featured Projects
 
-| Projeto | Descrição |
-|--------|-----------|
-| **Cidade Inteligente** | App para abertura de chamados, protocolos e consulta de serviços municipais. |
-| **Vistoriar** | Plataforma de vistorias imobiliárias com relatórios e upload de fotos. |
-| **DMS Dashboard** | Painel para gestão de contatos e performance de agentes imobiliários. |
-| **Onboarding Digital** | Automação de fluxos de assinatura eletrônica e acompanhamento de estágios. |
-
----
-
-## 💡 Sobre mim
-
-- 👶 Pai, esposo e dev apaixonado por resolver problemas reais com código.
-- 📈 Atuo com times ágeis, entregando features com qualidade e foco em negócios.
-- 🌐 Buscando sempre evoluir, seja estudando novas ferramentas ou criando novos produtos (inclusive SaaS).
+| Project | Description |
+|--------|-------------|
+| **Cidade Inteligente** | App for submitting requests, protocols, and checking public service statuses. |
+| **Vistoriar** | Property inspection platform with reports and media uploads. |
+| **DMS Dashboard** | Dashboard for managing contacts and performance of real estate agents. |
+| **Digital Onboarding** | Automated digital signature workflow with tracking and status monitoring. |
 
 ---
 
-## 📬 Contato
+## 💡 About Me
 
-Se quiser bater um papo, colaborar ou conhecer mais sobre meu trabalho:
+- 👶 Father, husband, and developer passionate about solving real-world problems through code.
+- 📈 I work with agile teams, delivering features with quality and business focus.
+- 🌐 Always learning — exploring new tools and building new products (including SaaS platforms).
 
-- [LinkedIn](https://www.linkedin.com/in/seu-perfil)
-- [Email](mailto:seu@email.com)
+---
 
-Obrigado por passar por aqui! ⭐
+## 📬 Get in Touch
+
+Let’s connect, collaborate, or chat about cool projects:
+
+- [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/cassio-augusto-alves/))
+- [Email](mailto:cassioag.alves@gmail.com)
+
+Thanks for stopping by! ⭐
